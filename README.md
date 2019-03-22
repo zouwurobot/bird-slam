@@ -1,5 +1,7 @@
 # bird-slam & neural network
 
-slam test records and semi-modified CNN
+slam test records 
 
-@jing jiaj9815@gmail.com
+@jing 
+
+jiaj9815@gmail.com
